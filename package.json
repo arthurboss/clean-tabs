@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Arthur Boss <arthurboss@outlook.com>",
   "dependencies": {
-    "gatsby": "^3.6.2",
+    "gatsby": "^3.8.0",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-manifest": "^3.6.0",
@@ -15,8 +15,8 @@
     "gatsby-source-filesystem": "^3.6.0",
     "gatsby-transformer-sharp": "^3.6.0",
     "prop-types": "^15.7.2",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.0.0-alpha-568dc3532",
+    "react-dom": "^18.0.0-alpha-568dc3532",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
