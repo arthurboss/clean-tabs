@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "clean-tabs",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A website with my favourite song's guitar tabs",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Arthur Boss <arthurboss@outlook.com>",
   "dependencies": {
     "gatsby": "^3.6.2",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
@@ -20,7 +20,8 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "typescript": "^4.3.4"
   },
   "keywords": [
     "gatsby"
