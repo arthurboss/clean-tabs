@@ -1,19 +1,24 @@
-import * as React from "react"
-import PropTypes from "prop-types"
-import { Link } from "gatsby"
+import * as React from 'react';
+import PropTypes from 'prop-types';
+import { Link } from 'gatsby';
+
+import '../styles/variables.css';
 
 const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
+      marginBottom: `var(--top-nav-bar-margin-bottom)`,
     }}
   >
     <div
       style={{
+        display: 'flex',
+        justifyContent: 'space-between',
         margin: `0 auto`,
         maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        padding: `12px 1.0875rem`,
+        height: '80px',
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -29,14 +34,14 @@ const Header = ({ siteTitle }) => (
       </h1>
     </div>
   </header>
-)
+);
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-}
+};
 
 Header.defaultProps = {
   siteTitle: ``,
-}
+};
 
-export default Header
+export default Header;

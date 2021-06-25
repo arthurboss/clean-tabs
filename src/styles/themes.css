@@ -1,13 +1,3 @@
-:root {
-  --theme-light-primary: #282c34;
-  --theme-light-background: white;
-
-  --theme-dark-primary: white;
-  --theme-dark-background: #282c34;
-
-  --height-top-nav-bar: 80px;
-}
-
 @media (prefers-color-scheme: dark) {
   body {
     background-color: var(--theme-dark-background);

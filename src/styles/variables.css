@@ -1,0 +1,12 @@
+:root {
+  /* theme colors */
+  --theme-light-primary: #282c34;
+  --theme-light-background: white;
+
+  --theme-dark-primary: white;
+  --theme-dark-background: #282c34;
+
+  /* sizes */
+  --top-nav-bar-height: 80px;
+  --top-nav-bar-margin-bottom: 1.45rem;
+}

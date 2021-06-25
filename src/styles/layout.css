@@ -6,11 +6,6 @@ html {
   overflow-y: scroll;
 }
 body {
-  display: flex;
-  flex-direction: column;
-  height: calc(100vh - var(--height-top-nav-bar));
-  justify-content: space-between;
-
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

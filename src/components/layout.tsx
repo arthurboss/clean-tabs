@@ -12,6 +12,7 @@ import Header from './header';
 
 import '../styles/layout.css';
 import '../styles/themes.css';
+import '../styles/variables.css';
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -29,6 +30,11 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div
         style={{
+          display: 'flex',
+          flexDirection: 'column',
+          height:
+            'calc(100vh - (var(--top-nav-bar-height) + var(--top-nav-bar-margin-bottom))',
+          justifyContent: 'space-between',
           margin: `0 auto`,
           maxWidth: 960,
           padding: `0 1.0875rem 1.45rem`,
