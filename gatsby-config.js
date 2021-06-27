@@ -32,7 +32,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/database/`,
+        path: `./src/assets/`,
       },
     },
     `gatsby-plugin-gatsby-cloud`,

@@ -411,6 +411,8 @@ pre {
   overflow: auto;
   word-wrap: normal;
   padding: 1.45rem;
+  padding-left: 0;
+  font-family: sans-serif;
 }
 table {
   margin-left: 0;
