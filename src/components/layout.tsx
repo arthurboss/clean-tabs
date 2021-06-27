@@ -14,7 +14,11 @@ import '../styles/layout.css';
 import '../styles/themes.css';
 import '../styles/variables.css';
 
-const Layout = ({ children }) => {
+type TLayout = {
+  children: React.ReactNode;
+};
+
+const Layout = ({ children }: TLayout) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {

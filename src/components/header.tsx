@@ -4,7 +4,11 @@ import { Link } from 'gatsby';
 
 import '../styles/variables.css';
 
-const Header = ({ siteTitle }) => (
+type THeader = {
+  siteTitle: string;
+};
+
+const Header = ({ siteTitle }: THeader) => (
   <header
     style={{
       background: `rebeccapurple`,
