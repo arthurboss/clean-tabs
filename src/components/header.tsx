@@ -1,5 +1,4 @@
 import * as React from 'react';
-import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 
 import '../styles/variables.css';
@@ -8,7 +7,7 @@ type THeader = {
   siteTitle: string;
 };
 
-const Header = ({ siteTitle }: THeader) => (
+const Header = ({ siteTitle = '' }: THeader) => (
   <header
     style={{
       background: `rebeccapurple`,
@@ -39,13 +38,5 @@ const Header = ({ siteTitle }: THeader) => (
     </div>
   </header>
 );
-
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-};
-
-Header.defaultProps = {
-  siteTitle: ``,
-};
 
 export default Header;
