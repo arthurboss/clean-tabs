@@ -1,43 +1,33 @@
-Hillsong United - Prince of Peace
-
+Hillsong United - Prince Of Peace
 
 [Intro] 
         C           Bm
-E|-----------------------------------------
-B|-----3-----3------3-----3----------------
-G|----5-5---5-5----4-4---4-4---------------
-D|---5-----5------4-----4------------------
-A|-----------------------------------------
-E|-----------------------------------------
+E|---------------------------------------------------|
+B|-----3-----3------3-----3--------------------------|
+G|----5-5---5-5----4-4---4-4-------------------------|
+D|---5-----5------4-----4----------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
 
 [Primeira Parte]
 
-E|-------------------------------3----3----
-B|-----3-----3------3-----3----------------
-G|----5-5---5-5----4-4---4-4----0-0--0-0---
-D|---5-----5------4-----4------------------
-A|----------------------------------------2
-E|-----------------------------0----0------
-
-E|-2----2---| 
-B|----------| 
-G|2-2--2-2--| 
-D|----------| 
-A|----2-----| 
-E|----------| 
+E|-------------------------------3----3-----2----2---|
+B|-----3-----3------3-----3--------------------------|
+G|----5-5---5-5----4-4---4-4----0-0--0-0---2-2--2-2--|
+D|---5-----5------4-----4----------------------------|
+A|----------------------------------------2----2-----|
+E|-----------------------------0----0----------------|
 
 
 C             Bm
- My heart a storm, clouds raging deep 
-within
+ My heart a storm, clouds raging deep within
 C               Bm
- The Prince of peace came bursting through 
-the wind
+ The Prince of peace came bursting through the wind
 Em              Bm
   The violent sky held its breath
 C             Bm
  And in Your light I found rest
-
+ 
 [Refrão]
 
 G                     Am7
@@ -56,23 +46,21 @@ Striding through my fear
 The Prince of peace
             C
 Met me there
-
+ 
 Bm               C    Bm
   You heard my prayer
-
+ 
 [Segunda Parte]
 
 C               Bm
- Hope like the sun, light piercing through 
-the dark
+ Hope like the sun, light piercing through the dark
 C               Bm
- The Prince of peace came and broke into my
- heart
+ The Prince of peace came and broke into my heart
 Em              Bm               C
   The violent cross, the empty grave
              Bm
 And in Your light I found grace
-
+ 
 [Refrão]
 
 G                     Am7
@@ -91,16 +79,16 @@ Striding through my fear
 The Prince of peace
             G
 Met me there
-
+ 
 Am7            Em      C
    You're always there
                G       Am7  Em  C
 And You hear my prayer
-
+ 
 [Ponte]
 
      G
-Your love surrounds me
+Your love surrounds me 
         Am7
 When my thoughts wage war
      Em
@@ -111,7 +99,7 @@ There Your voice will roar
 Come death or shadow
       Am7                        Em      C
 God I know Your light will meet me there
-
+ 
      G
 When fear comes knocking
              Am7
@@ -124,7 +112,7 @@ There You'll hold my heart
 Come storm or battle
       Am7                        Em
 God I know Your peace will meet me there
-
+ 
   C
 (Again)
 
@@ -136,12 +124,11 @@ C    G       Am7      Em
 Oh fear no  e - vil
         C   D       Em
 For I know You are here
-
+ 
 [Ponte]
 
        C                   G
-And my soul will know Your love surrounds 
-me
+And my soul will know Your love surrounds me 
         Am7
 When my thoughts wage war
      Em
@@ -152,10 +139,9 @@ There Your voice will roar
 Come death or shadow
       Am7                        Em      C
 God I know Your light will meet me there
-
+ 
                            G
-And my soul will know when fear comes 
-knocking
+And my soul will know when fear comes knocking
              Am7
 There You'll be my guard
      Em
@@ -166,7 +152,7 @@ There You'll hold my heart
 Come storm or battle
       Am7                        Em
 God I know Your peace will meet me there
-
+  
 [Final]
 
  G       Am7  C   Em
@@ -175,7 +161,6 @@ Oh, be still my heart
 And my soul will ever know that You are God
         C           G
 And You heard my prayer
-
 
 ----------------- Acordes -----------------
 Am7 = X 0 2 0 1 0
