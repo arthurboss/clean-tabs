@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Clean Tabs`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `A visually *clean* web-app to visualise musical *tabs*, hence: clean-tabs.`,
     author: `@arthurboss`,
   },
   plugins: [
