@@ -5,26 +5,26 @@
   "version": "0.1.0",
   "author": "Arthur Boss <arthurboss@outlook.com>",
   "dependencies": {
-    "gatsby": "^3.8.0",
-    "gatsby-plugin-gatsby-cloud": "^2.6.1",
-    "gatsby-plugin-image": "^1.6.0",
-    "gatsby-plugin-manifest": "^3.6.0",
-    "gatsby-plugin-offline": "^4.6.0",
-    "gatsby-plugin-react-helmet": "^4.6.0",
-    "gatsby-plugin-sharp": "^3.6.0",
-    "gatsby-source-filesystem": "^3.8.0",
+    "gatsby": "latest",
+    "gatsby-plugin-gatsby-cloud": "^2.10.0",
+    "gatsby-plugin-image": "^1.10.1",
+    "gatsby-plugin-manifest": "^3.10.0",
+    "gatsby-plugin-offline": "^4.10.0",
+    "gatsby-plugin-react-helmet": "^4.10.0",
+    "gatsby-plugin-sharp": "^3.10.2",
+    "gatsby-source-filesystem": "^3.10.0",
     "gatsby-transformer-plaintext": "^2.0.0",
-    "gatsby-transformer-sharp": "^3.6.0",
-    "prop-types": "^15.7.2",
-    "react": "^18.0.0-alpha-568dc3532",
-    "react-dom": "^18.0.0-alpha-568dc3532",
+    "gatsby-transformer-sharp": "^3.10.0",
+    "react": "alpha",
+    "react-dom": "alpha",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "@types/react-helmet": "^6.1.1",
+    "@types/react": "^17.0.15",
+    "@yarnpkg/pnpify": "^3.0.0-rc.13",
     "prettier": "^2.3.1",
     "raw-loader": "^4.0.2",
-    "typescript": "^4.3.4"
+    "typescript": "^4.3.5"
   },
   "keywords": [
     "gatsby"
