@@ -2,25 +2,28 @@ exports.createPages = async function ({ actions, graphql }) {
   const { data } = await graphql(`
     query {
       allFile(filter: { ext: { eq: ".txt" } }) {
-        edges {
-          node {
-            name
-            internal {
-              content
-            }
+        nodes {
+          name
+          relativeDirectory
+          internal {
+            content
           }
         }
       }
     }
   `);
 
-  data.allFile.edges.forEach((edge) => {
-    const slug = edge.node.name;
+  data.allFile.nodes.forEach((node) => {
+    const {
+      name,
+      relativeDirectory,
+      internal: { content },
+    } = node;
 
     actions.createPage({
-      path: slug,
+      path: `/${relativeDirectory}/${name}`,
       component: require.resolve(`./src/templates/tab.js`),
-      context: { slug },
+      context: { content, name },
     });
   });
 };

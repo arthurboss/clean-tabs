@@ -1,5 +1,6 @@
-import { Link } from 'gatsby';
+
 import * as React from 'react';
+import ContentIndex from '../components/ContentIndex';
 
 import Layout from '../components/layout';
 import Seo from '../components/seo';
@@ -8,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
 
-    <Link to="/tabs">Tabs</Link>
+    <ContentIndex />
   </Layout>
 );
 
