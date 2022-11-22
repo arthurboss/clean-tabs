@@ -15,8 +15,8 @@
     "gatsby-source-filesystem": "^5.1.0",
     "gatsby-transformer-plaintext": "^2.0.0",
     "gatsby-transformer-sharp": "^5.1.0",
-    "react": "alpha",
-    "react-dom": "alpha",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
